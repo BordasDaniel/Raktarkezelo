@@ -1,0 +1,6 @@
+@Raktárkezelő_HostAddress = http://localhost:5120
+
+GET {{Raktárkezelő_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
